@@ -29,8 +29,14 @@ This repository contains re-implementations of popular intrinsic reward motivati
 1. **Causal Intrinsic Reward**
    - **Description**: This notebook implements a causal approach to intrinsic reward, where the agent is rewarded for actions that have a significant causal impact on its environment. This method aims to guide the agent towards actions that lead to meaningful and influential changes in the environment.
 
-References
-Tang, H., et al. (2017). "# Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning". Advances in Neural Information Processing Systems, 30.
-Savinov, N., et al. (2018). "Episodic Curiosity through Reachability". arXiv preprint arXiv:1810.02274.
-Burda, Y., et al. (2018). "Exploration by Random Network Distillation". arXiv preprint arXiv:1810.12894.
-Pathak, D., et al. (2017). "Curiosity-driven Exploration by Self-supervised Prediction". In International Conference on Machine Learning (pp. 2778-2787). PMLR.
+# References
+1. Burda, Y., et al. (2018). "Exploration by Random Network Distillation". arXiv preprint arXiv:1810.12894.
+2. Brockman, G., Cheung, V., Pettersson, L., Schneider, J., Schulman, J., Tang, J., & Zaremba, W. (2016). Openai gym. arXiv preprint arXiv:1606.01540.
+3. Chevalier-Boisvert, M., Dai, B., Towers, M., Perez-Vicente, R., Willems, L., Lahlou, S., ... & Terry, J. (2024). Minigrid & miniworld: Modular & customizable reinforcement learning environments for goal-oriented tasks. Advances in Neural Information Processing Systems, 36.
+4. Raffin, A., Hill, A., Gleave, A., Kanervisto, A., Ernestus, M., & Dormann, N. (2021). Stable-baselines3: Reliable reinforcement learning implementations. Journal of Machine Learning Research, 22(268), 1-8.
+5. Huang, S., Dossa, R. F. J., Ye, C., Braga, J., Chakraborty, D., Mehta, K., & AraÃšjo, J. G. (2022). Cleanrl: High-quality single-file implementations of deep reinforcement learning algorithms. Journal of Machine Learning Research, 23(274), 1-18.
+6. Pathak, D., et al. (2017). "Curiosity-driven Exploration by Self-supervised Prediction". In International Conference on Machine Learning (pp. 2778-2787). PMLR.
+7. Savinov, N., et al. (2018). "Episodic Curiosity through Reachability". arXiv preprint arXiv:1810.02274.
+8. Tang, H., et al. (2017). "# Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning". Advances in Neural Information Processing Systems, 30.
+
+
